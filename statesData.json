@@ -1,0 +1,1468 @@
+ {
+ "alabama": {
+        "name": "Alabama",
+        "legislatureUrl": "https://alison.legislature.state.al.us/",
+        "currentLaws": [
+          "No current mandate: Alabama does not require insurance coverage for infertility treatments."
+        ],
+        "takeAction": [
+          "Contact your representative and senator to champion fertility healthcare insurance coverage and protect against limitations to fertility healthcare."
+        ],
+        "claimInfo": "https://www.commerce.alaska.gov/web/ins/Consumers/Complaints.aspx",
+        "factSheet": "Alabama Protecting Fertility Healthcare",
+        "factSheetUrl":
+          "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Alabama%20Protecting%20Access%20One%20Sheet%20R1.pdf?ver=1691858341509",
+        "lastUpdated": "April 2025"
+      },
+      "alaska": {
+        "name": "Alaska",
+        "legislatureUrl": "https://akleg.gov/",
+        "currentLaws": [
+          "No current mandate: Alaska does not require insurance coverage for infertility treatments."
+        ],
+        "billsInProgress": [
+          {
+            "title": "HB 205",
+            "description":
+              "An Act interpreting the right to privacy under art. I, sec. 22, Constitution of the State of Alaska",
+            "status":
+              "Introduced in May 2023, currently in Health and Social Services Committee",
+            "details": [
+              "Criminalizes abortion and repeals medical assistance payment for abortions",
+              "Defines personhood for unborn children"
+            ]
+          }
+        ],
+        "takeAction": [
+          "Contact your representative and senator to champion fertility healthcare insurance coverage and protect against limitations to fertility healthcare.",
+          "Urge your legislators <strong>not</strong> to support HB 205."
+        ],
+        "claimInfo": "https://www.commerce.alaska.gov/web/ins/ConsumerServices/FileaComplaint.aspx",
+        "factSheet": "Alaska Protecting Fertility Healthcare",
+        "factSheetUrl":
+          "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Alaska%20Protecting%20Access%20One%20Sheet%20R1.pdf?ver=1691858341509",
+        "lastUpdated": "April 2025"
+      },
+      "arizona": {
+        "name": "Arizona",
+        "legislatureUrl": "https://www.azleg.gov/",
+        "currentLaws": [
+          "No current mandate: Arizona does not require insurance coverage for infertility treatments."
+        ],
+        "billsInProgress": [
+          {
+            "title": "HB 2745/SB 1431",
+            "description":
+              "An Act Amending title 36, chapter 11, Arizona Revised Statutes, by adding article 2; relating to health care services.",
+            "status":
+              "Introduced in February 2025, currently in Health and Human Services committee; appropriations committee; and rules committee",
+            "details": [
+              "Creates definition for infertility in state law",
+              "Outlines patient rights to infertility treatment"
+            ]
+          }
+        ],
+        "takeAction": [
+          "Contact your representative and senator to champion fertility healthcare insurance coverage and protect against limitations to fertility healthcare.",
+          "Urge your legislators to support HB 2785/SB 1431."
+        ],
+        "claimInfo": "https://insurance.az.gov/consumers/file-complaint",
+        "factSheet": "Arizona Protecting Fertility Healthcare",
+        "factSheetUrl":
+          "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Arizona%20Protecting%20Access%20One%20Sheet%20R1.pdf?ver=1691858341509",
+        "lastUpdated": "April 2025"
+      },
+      "arkansas": {
+        "name": "Arkansas",
+        "legislatureUrl":
+          "https://arkleg.state.ar.us/?ddBienniumSession=2017%2F2018F",
+        "currentLaws": [
+          "Arkansas passed a mandate to cover infertility care in 1987. (Arkansas Code Annotated Section 23-85-137, 23-86-118, and Section 23-79-510)"
+        ],
+        "billsInProgress": [
+          {
+            "title": "HB 1013",
+            "description": "TO PROTECT FERTILITY TREATMENT RIGHTS IN THIS STATE.",
+            "status":
+              "Introduced in November 2024, currently reported correctly engrossed",
+            "details": [
+              "Creates definition of fertility treatment in state law",
+              "Defines rights for infertility care patients, providers, insurers, and manufacturers"
+            ]
+          }
+        ],
+        "takeAction": [
+          "Contact your representative and senator to champion fertility healthcare insurance coverage and protect against limitations to fertility healthcare.",
+          "Urge your legislators to support HB 1013."
+        ],
+        "claimInfo": "https://insurance.arkansas.gov/consumers/file-a-complaint",
+        "factSheet": "Arkansas Protecting Fertility Healthcare",
+        "factSheetUrl":
+          "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Arkansas%20Protecting%20Access%20One%20Sheet%20F-8.1.pdf?ver=1694474190311",
+        "lastUpdated": "April 2025"
+      },
+      "california": {
+        "name": "California",
+        "legislatureUrl": "https://leginfo.legislature.ca.gov/",
+        "currentLaws": [
+          "Current Laws: California passed a mandate in 1990 which was updated in 2019. (California Insurance Code Section 10119.6, California Health and Safety Code Section 1374.551)"
+        ],
+
+        "billsInProgress": [
+          {
+            "title": "AB 350",
+            "description": "Healthcare coverage; fluoride treatments",
+            "status": "Introduced in January 2025, currently in Committee on Health",
+            "details": [
+              "The state would provide comprehensive clinical family planning services to people whose family income is at or below 200 percent of the federal poverty level",
+              "This includes education on fertility care options"
+            ]
+          }
+        ],
+        "takeAction": [
+          "Contact your representative and senator to champion fertility healthcare insurance coverage and protect against limitations to fertility healthcare.",
+          "Urge your legislators to support AB 350."
+        ],
+        "claimInfo": "https://www.insurance.ca.gov/01-consumers/101-help/",
+        "factSheet": "California Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20California%20Protecting%20Access%20One%20Sheet%20R1.pdf?ver=1691867212858",
+        "lastUpdated": "April 2025"
+      },
+
+      "colorado": {
+        "name": "Colorado",
+        "legislatureUrl": "https://leg.colorado.gov/",
+        "currentLaws": [
+          "Co. Stat. § 10-16-104(23)(a); 3 CCR 702-4:4-2-42",
+          "Co. Stat. § 10-16-104(23)(b)",
+          "2020 Colorado Revised Statutes, 10-16-104, (23); effective 2023",
+          "§ 10-16-104(23)(c)",
+          "Co. Stat. § 10-16-104(23)(e)",
+          "Co. Stat. § 10-16-104(g)(VIII)"
+        ],
+        "currentCoverage": [
+          "Individual, group plans, and all large group (more than 100 employees) health benefit plans must provide coverage for the diagnosis of and treatment for infertility, and standard fertility preservation services.",
+          "Plans must cover three completed oocyte retrievals with unlimited embryo transfers, using single embryo transfers when recommended and medically appropriate.",
+          "Plans may not impose any: exclusions, limitations, or other restrictions on coverage of fertility medications that are different from those imposed on any other prescription medications covered under the health benefit plan; OR deductibles, copayments, coinsurance, benefit maximums, waiting periods, or other limitations on coverage for the diagnosis of and treatment for infertility and standard fertility preservation services that are different from those imposed on benefits for services covered under the health benefit plan that are not related to infertility."
+        ],
+        "exemptions": [
+          "A religious employer may request, and the plan must grant an exclusion from the coverage requirement here if the coverage requirement conflicts with the religious organizations bona fide religious beliefs and practices.",
+          "If such employer obtains an exclusion, it must provide its employees reasonable and timely notice of the exclusion."
+        ],
+        "fertilityPreservation": [
+          "The law requires health plans to cover 'standard fertility preservation services,' for a person who has a medical condition or is expected to undergo medication therapy, surgery, radiation, chemotherapy, or other medical treatment that is recognized by medical professionals to cause a risk of impairment to fertility."
+        ],
+        "billsInProgress": [
+          {
+            "title": "H.B. 5475",
+            "description": "AN ACT CONCERNING FERTILITY FRAUD BY PHYSICIANS To protect patients undergoing fertility treatments from physician misconduct.",
+            "status": "Introduced",
+            "details": [],
+            "link": "https://www.cga.ct.gov/2025/TOB/H/PDF/2025HB-05475-R00-HB.PDF"
+          },
+          {
+            "title": "H.B. 6135",
+            "description": "AN ACT CONCERNING THE DEFINITION OF 'INFERTILITY' To revise the definition of 'infertility' for purposes of health insurance coverage under individual and group health insurance policies.",
+            "status": "Introduced",
+            "details": [],
+            "link": "https://www.cga.ct.gov/2025/TOB/H/PDF/2025HB-06135-R00-HB.PDF"
+          },
+          {
+            "title": "H.B. 7022",
+            "description": "AN ACT PROMOTING EQUITY IN MEDICAID COVERAGE FOR FERTILITY HEALTH CARE.",
+            "status": "Introduced",
+            "details": [],
+            "link": "https://www.cga.ct.gov/2025/FC/PDF/2025HB-07022-R000399-FC.PDF"
+          }
+        ],
+        "takeAction": [
+          "Support fertility healthcare in Colorado!",
+          "Contact your legislators: Urge them to support bills in progress advancing fertility insurance coverage!",
+          "Need help reaching out? Check out our Advocate for Yourself page for tips and templates to effectively contact your legislators."
+        ],
+        "claimInfo": "https://doi.colorado.gov/for-consumers/file-a-complaint",
+        "factSheet": "Colorado Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Colorado%20Protecting%20Access%20One%20Sheet%20F-7.2.pdf?ver=1694474190311",
+        "lastUpdated": "April 2025"
+      },
+
+      "connecticut": {
+        "name": "Connecticut",
+        "legislatureUrl": "https://www.cga.ct.gov/",
+        "currentLaws": [
+          "Conn. Gen. Stat. §§ 38a-509(a); 38a-536(a)",
+          "Conn. Admin. Code 17b-262-342(8)",
+          "Gen. Stat. §§ 38a-509(a); 38a-536(a)",
+          "Conn. Gen. Stat. §§ 38a-509(c)(1); 38a-536(c)(1)"
+        ],
+        "currentCoverage": [
+          "Individual and group health insurance policies must provide coverage for the medically necessary expenses of the diagnosis and treatment of infertility, including, but not limited to, ovulation induction, intrauterine insemination, IVF, uterine embryo lavage, embryo transfer, gamete intra-fallopian transfer, zygote intrafallopian transfer and low tubal ovum transfer.",
+          "NOT COVERED under the state Medicaid program.",
+          "Treatments or procedures must be performed at facilities that conform to the American Society of Reproductive Medicine and the Society of Reproductive Endocrinology and Infertility Guidelines."
+        ],
+        "exemptions": [
+          "Any insurance company, hospital service corporation, medical service corporation or health care center may issue to a religious employer an individual health insurance policy that excludes coverage for methods of diagnosis and treatment of infertility that are contrary to the religious employer's bona fide religious tenets."
+        ],
+        "fertilityPreservation": [
+          "Standard fertility preservation services are covered"
+        ],
+        "billsInProgress": [
+          {
+            "title": "HB 06588",
+            "description": "To allow the Commissioner of Public Health to revoke a physician's license if such physician is convicted of fertility fraud",
+            "status": "Introduced",
+            "details": [],
+            "link": "https://legiscan.com/CT/text/HB06588/id/3075952"
+          },
+          {
+            "title": "HB. 06568",
+            "description": "To address crisis pregnancies, promote informed consent and reduce the potential for infant abandonment while safeguarding the health of the birthing person and infant as an ethical approach to a birth in crisis.",
+            "status": "Introduced",
+            "details": [],
+            "link": "https://legiscan.com/CT/drafts/HB06568/2025"
+          },
+          {
+            "title": "HB.05714",
+            "description": "To protect reproductive rights in cases where a woman decides to continue with a pregnancy.",
+            "status": "Introduced",
+            "details": [],
+            "link": "https://legiscan.com/CT/drafts/HB05714/2025"
+          }
+        ],
+        "takeAction": [
+          "Support fertility healthcare in Connecticut!",
+          "Contact your legislators: Urge them to support bills in progress advancing fertility insurance coverage!",
+          "Need help reaching out? Check out our Advocate for Yourself page for tips and templates to effectively contact your legislators."
+        ],
+        "claimInfo": "https://portal.ct.gov/cid/file-a-complaint?language=en_US",
+        "factSheet": "Connecticut Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Connecticut%20Protecting%20Access%20One%20Sheet%20F-.pdf?ver=1694474190333",
+        "lastUpdated": "April 2025"
+      },
+      "delaware": {
+        "name": "Delaware",
+        "legislatureUrl": "https://legis.delaware.gov/",
+        "currentLaws": [
+          "Del. Code Ann. tit. 18, §§ 3342(i)(2), 3556(i)(2)",
+          "§§ 3342(i)(1)(b), 3556(i)(1)(b)",
+          "Del. Code Ann. tit. 18, §§ 3342(i)(3), 3556(i)(3)",
+          "Del. Code Ann. tit. 18, § 3556(i)(5)",
+          "Id. § 3556(i)(6)",
+          "Del. Code Ann. tit. 18, §§ 3342(i)(2), 3556(i)(2)",
+          "Id. §§ 3342(i)(1)(a), 3556(i)(1)(a)",
+          "§§ 3342(i)(1)(c), 3556(i)(1)(c)"
+        ],
+        "currentCoverage": [
+          "Individual, group, and blanket health insurance policies must include coverage for fertility care services, including IVF, for individuals who suffer from infertility.",
+          "These benefits must be provided to covered individuals, including covered spouses and covered non-spouse dependents, to the same extent as other pregnancy-related benefits.",
+          "To qualify for coverage, all of the following requirements must be met:",
+          "A board-certified or board-eligible obstetrician-gynecologist, subspecialist in reproductive endocrinology, oncologist, urologist, or andrologist verifies that the covered individual is diagnosed with infertility or is at risk of iatrogenic infertility.",
+          "When the covered individual is diagnosed with infertility, the covered individual has not been able to obtain a successful pregnancy through reasonable effort with less costly infertility treatments covered by the policy, with the following exceptions:",
+          "No more than 3 treatment cycles of ovulation induction or intrauterine inseminations may be required before IVF is covered.",
+          "If IVF is medically necessary, no cycles of ovulation induction or intrauterine inseminations may be required before IVF is covered.",
+          "IVF procedure must be performed at a practice that conforms to American Society for Reproductive Medicine and American Congress of Obstetricians and Gynecologists guidelines.",
+          "For IVF, retrievals are completed before the individual is 45 years old and transfers are completed before the individual is 50 years old."
+        ],
+        "exemptions": [
+          "A religious employer may request, and the plan must grant an exclusion from the coverage requirement, if the coverage requirement conflicts with the religious organization's bona fide religious beliefs and practices.",
+          "If such employer obtains an exclusion, it must provide its employees reasonable and timely notice of the exclusion.",
+          "Employers who self-insure or who have fewer than 50 employees are exempt from the coverage requirements."
+        ],
+        "fertilityPreservation": [
+          "The law requires coverage for standard fertility preservation services for individuals who must undergo medically necessary treatment that may cause iatrogenic infertility.",
+          "These benefits must be provided to covered individuals, including covered spouses and covered non-spouse dependents, to the same extent as other pregnancy-related benefits.",
+          "'Iatrogenic infertility' means an impairment of fertility due to surgery, radiation, chemotherapy, or other medical treatment."
+        ],
+        "billsInProgress": [
+          {
+            "title": "DE HB36",
+            "description":
+              "This Act aligns Delaware's non-discrimination laws, including prohibiting discrimination in employment on the basis of a reproductive health decision.",
+            "status": "Introduced",
+            "details": [],
+            "link": "https://legiscan.com/DE/text/HB36/id/3156168"
+          },
+          {
+            "title": "DE SB5",
+            "description": "An Act Proposing An Amendment To Article I Of The Delaware Constitution Relating To The Right To Reproductive Freedom.",
+            "status": "Introduced",
+            "details": [],
+            "link": "https://legiscan.com/DE/text/SB5/id/3156981"
+          }
+        ],
+        "takeAction": [
+          "Support fertility healthcare in Delaware!",
+          "Contact your legislators: Urge them to support bills in progress advancing fertility insurance coverage!",
+          "Need help reaching out? Check out our Advocate for Yourself page for tips and templates to effectively contact your legislators."
+        ],
+        "claimInfo": "https://insurance.delaware.gov/services/filecomplaint/",
+        "factSheet": "Delaware Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Delaware%20Protecting%20Access%20One%20Sheet%20R1.pdf?ver=1691867212858",
+        "lastUpdated": "April 2025"
+      },
+
+      "districtOfColumbia": {
+        "name": "District of Columbia",
+        "legislatureUrl": "https://dccouncil.gov/legislation/",
+        "currentLaws": ["D.C. Law 25-49 (2024)"],
+        "currentCoverage": [
+          "All health insurers offering an individual, small group, or large group health benefit plan must provide coverage for the diagnosis and treatment of infertility, including the following:",
+          "Three rounds of IVF",
+          "Standard fertility preservation services.",
+          "At least 3 complete oocyte retrievals with unlimited embryo transfers from those oocyte retrievals or from any oocyte retrieval performed prior to January 1, 2025.",
+          "The medical costs related to an embryo transfer to be made from an enrollee to a third-party; except, that the enrollee's coverage shall not extend to any medical costs of the surrogate or gestational carrier after the embryo transfer procedure.",
+          "Infertility is determined by a licensed physician's findings based on a patient's medical, sexual, and reproductive history, age, physical findings, or diagnostic testing."
+        ],
+        "fertilityPreservation": [
+          "An Insurer may not impose pre-existing condition exclusions or pre-existing condition waiting periods on coverage or use any prior diagnosis of or prior treatment for infertility as a basis for excluding, limiting, or otherwise restricting the availability of coverage for required benefits."
+        ],
+        "billsInProgress": ["No current bills in progress"],
+        "takeAction": [
+          "Support fertility healthcare in District of Columbia!",
+          "Contact your legislators: Urge them to support bills advancing fertility insurance coverage!",
+          "Need help reaching out? Check out our Advocate for Yourself page for tips and templates to effectively contact your legislators."
+        ],
+        "claimInfo": "https://disb.dc.gov/service/file-complaint-or-report-fraud",
+        "factSheet": "N/A",
+        "lastUpdated": "April 2025"
+      },
+      "florida": {
+        "name": "Florida",
+        "legislatureUrl": "http://www.leg.state.fl.us/Welcome/index.cfm?CFID=200664791&CFTOKEN=30456413",
+        "senateUrl": "https://www.flsenate.gov/",
+        "houseUrl": "https://www.flhouse.gov/",
+        "currentLaws": [
+          "No state mandate exists that would require insurance companies to offer coverage for fertility treatments."
+        ],
+        "billsInProgress": [
+          {
+            "title": "H0677",
+            "description": "Requires DMS under state group health insurance plan policies to provide coverage of medically necessary expenses relating to standard fertility preservation services; prohibits state group health insurance plans from requiring preauthorization for such services; authorizes maximum benefit provisions & cost-sharing requirements.",
+            "status": "Order Enrolled",
+            "details": [],
+            "link": "https://legiscan.com/FL/text/H0677/id/3197432"
+          },
+          {
+            "title": "H1499",
+            "description": "Provides that individuals have specified reproductive rights; prohibits local government from regulating individual's reproductive freedom.",
+            "status": "Referred to Health Professions & Programs Subcommittee",
+            "details": [],
+            "link": "https://legiscan.com/FL/text/H1499/id/3148154"
+          },
+          {
+            "title": "S1380",
+            "description": "Creating the 'Protect Reproductive Options Act'; providing that every individual has a fundamental right to make autonomous decisions about the individual's own reproductive health; providing that individuals who become pregnant have a fundamental right to make certain decisions in exercise of such right, etc.",
+            "status": "Introduced to the Senate",
+            "details": [],
+            "link": "https://legiscan.com/FL/text/S1380/id/3143497"
+          }
+        ],
+        "takeAction": [
+          "Support fertility healthcare in Florida!",
+          "Contact your legislators: Urge them to support bills advancing fertility insurance coverage! Find their info at Open States.",
+          "Need help reaching out? Check out our Advocate for Yourself page for tips and templates to effectively contact your legislators."
+        ],
+        "claimInfo": "https://www.myfloridacfo.com/division/consumers/needourhelp",
+        "factSheet": "Florida Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Florida%20Protecting%20Access%20One%20Sheet%20R1.pdf?ver=1691867212858",
+        "lastUpdated": "April 2025"
+      },
+
+      "georgia": {
+        "name": "Georgia",
+        "legislatureUrl": "https://www.legis.ga.gov/",
+        "currentLaws": [
+          "There are currently no laws mandating infertility treatment coverage, meaning insurance companies are not required to cover IVF or other fertility treatments."
+        ],
+
+        "billsInProgress": [
+          {
+            "title": "HB428",
+            "status": "Introduced",
+            "link": "https://www.legis.ga.gov/api/legislation/document/20252026/232306"
+          }
+        ],
+        "takeAction": [
+          "Contact your representative and senator to champion fertility healthcare insurance coverage and protect against limitations to fertility healthcare."
+        ],
+        "claimInfo": "https://oci.georgia.gov/consumers",
+        "factSheet": "Georgia Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Georgia%20Protecting%20Access%20One%20Sheet%20R1.pdf?ver=1691867212858",
+        "lastUpdated": "April 2025"
+      },
+      "hawaii": {
+        "name": "Hawaii",
+        "legislatureUrl": "https://www.capitol.hawaii.gov/",
+        "currentCoverage": [
+          "Hawaii Revised Statute \u00a7432:1-604 and \u00a7431:10A-116.5",
+          "Individual and group health insurance plans that provide pregnancy-related benefits must also include a one-time-only benefit for all expenses arising from IVF procedures.",
+          "The coverage shall be provided to the same extent as maternity-related benefits.",
+          "The IVF procedures must be performed at medical facilities that conform to ACOG and ASRM guidelines."
+        ],
+        "billsInProgress": [
+          {
+            "title": "S.B. 23",
+            "description":
+              "Ensures equal insurance coverage for in vitro fertilization (IVF) by removing discriminatory requirements.",
+            "status": "Introduced",
+            "details": [
+              "Creates parity for same-sex couples, unmarried individuals, transgender persons, and opposite-sex couples affected by male infertility.",
+              "Reduces the required duration of infertility from five years to six months.",
+              "Includes cases needing medical intervention due to physiological or anatomical factors."
+            ]
+          }
+        ],
+        "takeAction": [
+          "Contact your representative and senator to champion fertility healthcare insurance coverage and protect against limitations to fertility healthcare."
+        ],
+        "claimInfo": "https://cca.hawaii.gov/ins/",
+        "factSheet": "Hawaii Protect Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Hawaii%20Protecting%20Access%20One%20Sheet%20R1.pdf?ver=1691867212858",
+        "lastUpdated": "April 2025"
+      },
+      "idaho": {
+        "name": "Idaho",
+        "legislatureUrl": "https://legislature.idaho.gov/",
+        "currentLaws": [
+          "Currently, there are no laws requiring infertility treatment coverage."
+        ],
+        "takeAction": [
+          "Contact your representative and senator to champion fertility healthcare insurance coverage and protect against limitations to fertility healthcare."
+        ],
+        "claimInfo": "https://doi.idaho.gov/",
+        "factSheet": "Idaho Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Idaho%20Protecting%20Access%20One%20Sheet%20R1.pdf?ver=1691867212858",
+        "lastUpdated": "April 2025"
+      },
+      "illinois": {
+        "name": "Illinois",
+        "legislatureUrl": "https://www.ilga.gov/",
+        "currentCoverage": [
+          "Illinois Compiled Statutes ch. 215 section 5/356m and section 5/356z.32",
+          "Group insurers and HMOs that provide pregnancy-related coverage must provide infertility treatment including IVF and related procedures.",
+          "Coverage includes up to 4 egg retrievals, with two additional covered if a live birth occurs (maximum 6 retrievals).",
+          "Procedures must follow ACOG and ASRM guidelines.",
+          "No discriminatory exclusions, limits, or benefit caps based on fertility treatment.",
+          "Policies must cover medically necessary standard fertility preservation services when medical treatment may cause infertility."
+        ],
+        "exemptions": [
+          "Employers with fewer than 25 employees are exempt.",
+          "Religious employers are not required to cover infertility treatment."
+        ],
+        "billsInProgress": [
+          {
+            "title": "SB1259",
+            "description":
+              "Amends the Illinois Insurance Code for expanded fertility coverage.",
+            "status": "Introduced",
+            "details": [
+              "Requires coverage for standard fertility preservation services and follow-up services related to that coverage after June 1, 2026."
+            ]
+          }
+        ],
+        "takeAction": [
+          "Contact your representative and senator to champion fertility healthcare insurance coverage and protect against limitations to fertility healthcare."
+        ],
+        "claimInfo": "https://idoi.illinois.gov/",
+        "factSheet": "Illinois Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Illinois%20Protecting%20Access%20One%20Sheet%20R1.pdf?ver=1691867212858",
+        "lastUpdated": "April 2025"
+      },
+      "indiana": {
+        "name": "Indiana",
+        "legislatureUrl": "https://iga.in.gov/",
+        "currentLaws": [
+          "Currently, there are no laws requiring infertility treatment coverage."
+        ],
+        "takeAction": [
+          "Contact your representative and senator to champion fertility healthcare insurance coverage and protect against limitations to fertility healthcare."
+        ],
+        "claimInfo": "https://www.in.gov/idoi/",
+        "factSheet": "Indiana Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Indiana%20Protecting%20Access%20One%20Sheet%20R1.pdf?ver=1691867212858",
+        "lastUpdated": "April 2025"
+      },
+      "iowa": {
+        "name": "Iowa",
+        "legislatureUrl": "https://www.legis.iowa.gov/",
+        "currentCoverage": [
+          "No current mandate: Iowa does not require insurance coverage for infertility treatments."
+        ],
+        "billsInProgress": [
+          {
+            "title": "SF 501",
+            "description":
+              "An Act relating to medical assistance program and Hawki program coverage for standard fertility preservation services.",
+            "status": "Introduced in March 2025, currently under consideration.",
+            "details": [
+              "Mandates coverage for standard fertility preservation services through state medical assistance programs.",
+              "Covers up to three completed oocyte retrievals with unlimited embryo transfers following ASRM guidelines."
+            ]
+          }
+        ],
+        "takeAction": [
+          "Contact your representative and senator to champion fertility healthcare insurance coverage and protect against limitations to fertility healthcare."
+        ],
+        "claimInfo": "https://iid.iowa.gov/",
+        "factSheet": "Iowa Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Iowa%20Protecting%20Access%20One%20Sheet%20F-8.5.22.pdf?ver=1694474993883",
+        "lastUpdated": "April 2025"
+      },
+      "kansas": {
+        "name": "Kansas",
+        "legislatureUrl": "http://www.kslegislature.org/",
+        "currentCoverage": [
+          "Currently, there are no laws requiring infertility treatment coverage."
+        ],
+        "billsInProgress": [
+          {
+            "title": "None",
+            "description": "No bills in progress.",
+            "status": "N/A",
+            "details": []
+          }
+        ],
+        "takeAction": [
+          "Contact your representative and senator to champion fertility healthcare insurance coverage and protect against limitations to fertility healthcare."
+        ],
+        "claimInfo": "https://insurance.kansas.gov/",
+        "factSheet": "Kansas Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Kansas%20Protecting%20Access%20One%20Sheet%20R1.pdf?ver=1691941826507",
+        "lastUpdated": "April 2025"
+      },
+      "kentucky": {
+        "name": "Kentucky",
+        "legislatureUrl": "https://legislature.ky.gov/",
+        "currentCoverage": [
+          "Per the 2023 Kentucky Revised Statutes, health insurance plans must provide coverage for oocyte and sperm preservation when medically necessary treatment may cause iatrogenic infertility.",
+          "Coverage includes evaluation, laboratory work, medication, and treatment related to cryopreservation procedures for up to one year."
+        ],
+        "takeAction": [
+          "Contact your representative and senator to champion fertility healthcare insurance coverage and protect against limitations to fertility healthcare."
+        ],
+        "claimInfo": "https://insurance.ky.gov/Pages/default.aspx",
+        "factSheet": "Kentucky Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Kentucky%20Protecting%20Access%20One%20Sheet%20R1.pdf?ver=1691941826507",
+        "lastUpdated": "April 2025"
+      },
+      "louisiana": {
+        "name": "Louisiana",
+        "legislatureUrl": "https://www.legis.la.gov/",
+        "currentCoverage": [
+          "Louisiana Revised Statute Section 22:1036",
+          "Health insurance policies cannot exclude coverage for diagnosis and treatment of a correctable medical condition otherwise covered by the policy solely because the condition results in infertility.",
+          "This law does not require coverage of fertility drugs, IVF, assisted reproductive techniques, or sterilization reversals."
+        ],
+        "takeAction": [
+          "Contact your representative and senator to champion fertility healthcare insurance coverage and protect against limitations to fertility healthcare."
+        ],
+        "claimInfo": "https://ldi.la.gov/consumers/file-a-complaint",
+        "factSheet": "Louisiana Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Louisiana%20Protecting%20Access%20One%20Sheet%20R1.pdf?ver=1691941826527",
+        "lastUpdated": "April 2025"
+      },
+      "maine": {
+        "name": "Maine",
+        "legislatureUrl": "https://legislature.maine.gov/",
+        "currentCoverage": [
+          "Effective January 2024, health insurance plans must provide coverage for fertility diagnostic care, fertility preservation services, and fertility treatment.",
+          "Experimental fertility procedures and non-medical donor/surrogate costs are not covered."
+        ],
+        "takeAction": [
+          "Contact your representative and senator to champion fertility healthcare insurance coverage and protect against limitations to fertility healthcare."
+        ],
+        "claimInfo": "https://www.maine.gov/pfr/insurance/consumer/complaint",
+        "factSheet": "Maine Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Maine%20Protecting%20Access%20One%20Sheet%20R1.pdf?ver=1691941826527",
+        "lastUpdated": "April 2025"
+      },
+      "maryland": {
+        "name": "Maryland",
+        "legislatureUrl": "https://mgaleg.maryland.gov/",
+        "currentCoverage": [
+          "Mandate Years: 2000, 2018, 2020; Maryland Insurance Code Section 15-810",
+          "Covers 3 IVF attempts per live birth with a $100,000 lifetime benefit cap.",
+          "Patients must meet specific requirements such as infertility duration or medical conditions like endometriosis.",
+          "Same-sex exemptions apply; religious exemptions allowed."
+        ],
+        "exemptions": [
+          "Religious organizations are exempt from required infertility coverage."
+        ],
+        "billsInProgress": [
+          {
+            "title": "S.B. 001",
+            "description":
+              "Legally Protected Health Care - Reproductive, Fertility Preservation, and Contraceptive Treatment and Services (IVF and Contraception Shield Act of 2025)",
+            "status": "Introduced",
+            "details": []
+          },
+          {
+            "title": "H.B. 0095",
+            "description":
+              "Health Care Providers - Assisted Reproductive Treatment - Informed Consent and Fraud",
+            "status": "Introduced",
+            "details": []
+          }
+        ],
+        "takeAction": [
+          "Contact your representative and senator to champion fertility healthcare insurance coverage and protect against limitations to fertility healthcare."
+        ],
+        "claimInfo":
+          "https://insurance.maryland.gov/Consumer/Pages/FileAComplaint.aspx",
+        "factSheet": "Maryland Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Maryland%20Protecting%20Access%20One%20Sheet%20R1.pdf?ver=1691941826527",
+        "lastUpdated": "April 2025"
+      },
+      "massachusetts": {
+        "name": "Massachusetts",
+        "legislatureUrl": "https://malegislature.gov/",
+        "currentCoverage": [
+          "Mandate Years: 1987, 2010; Massachusetts General Laws ch. 175 \u00a747H, ch. 176A \u00a78K, ch. 176B \u00a74J, ch. 176G \u00a74, Code of MA Regs ch. 211 \u00a737",
+          "Coverage includes all non-experimental infertility procedures (e.g., IVF, IUI, cryopreservation, ICSI, etc.).",
+          "No exclusions for infertility drugs beyond standard prescription restrictions.",
+          "Patient must have attempted conception for 1 year (or 6 months if over age 35)."
+        ],
+        "exemptions": [
+          "Medicaid, experimental procedures, surrogacy, and sterilization reversals are excluded."
+        ],
+        "billsInProgress": [
+          {
+            "title": "S. 689 / H. 1191",
+            "description": "An Act Improving Access To Infertility Treatment.",
+            "status": "Introduced",
+            "details": []
+          }
+        ],
+        "takeAction": [
+          "Contact your representative and senator to champion fertility healthcare insurance coverage and protect against limitations to fertility healthcare."
+        ],
+        "claimInfo":
+          "https://www.mass.gov/how-to/file-a-complaint-with-the-division-of-insurance",
+        "factSheet": "Massachusetts Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Massachusetts%20Protecting%20Access%20One%20Sheet%20.pdf?ver=1691941826527",
+        "lastUpdated": "April 2025"
+      },
+      "michigan": {
+        "name": "Michigan",
+        "legislatureUrl": "https://www.legislature.mi.gov/",
+        "currentCoverage": [
+          "Currently, there are no laws requiring infertility treatment coverage."
+        ],
+        "takeAction": [
+          "Contact your representative and senator to champion fertility healthcare insurance coverage and protect against limitations to fertility healthcare."
+        ],
+        "claimInfo": "https://www.michigan.gov/difs/complaints",
+        "factSheet": "Michigan Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Michigan%20Protecting%20Access%20One%20Sheet%20R1.pdf?ver=1691941826527",
+        "lastUpdated": "April 2025"
+      },
+      "minnesota": {
+        "name": "Minnesota",
+        "legislatureUrl": "https://www.leg.mn.gov/",
+        "currentCoverage": [
+          "Minnesota Statute Section 256B.0625 states medical assistance covers drugs, except for fertility drugs when specifically used to enhance fertility."
+        ],
+        "billsInProgress": [
+          {
+            "title": "H.F. 1758 / S.F. 1961",
+            "description":
+              "Requires health plans and public assistance programs to cover infertility treatment and standard fertility preservation services.",
+            "status": "Introduced",
+            "details": []
+          }
+        ],
+        "takeAction": [
+          "Contact your representative and senator to champion fertility healthcare insurance coverage and protect against limitations to fertility healthcare."
+        ],
+        "claimInfo":
+          "https://mn.gov/commerce/consumers/your-rights/file-a-complaint/",
+        "factSheet": "Minnesota Protecting Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Minnesota%20Protecting%20Access%20One%20Sheet%20F-8..pdf?ver=1694474190333",
+        "lastUpdated": "April 2025"
+      },
+      "mississippi": {
+        "name": "Mississippi",
+        "legislatureUrl": "https://www.legislature.ms.gov/",
+        "currentCoverage": [
+          "Currently, there are no laws requiring infertility treatment coverage."
+        ],
+        "billsInProgress": [
+          {
+            "title": "MS SB2031",
+            "description":
+              "Creates the Health Insurance Coverage for Fertility Preservation Services Act.",
+            "status": "Introduced",
+            "details": []
+          }
+        ],
+        "takeAction": [
+          "Contact your representative and senator to champion fertility healthcare insurance coverage and protect against limitations to fertility healthcare."
+        ],
+        "claimInfo": "https://www.mid.ms.gov/consumers/file-a-complaint.aspx",
+        "factSheet": "Mississippi Protecting Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Mississippi%20Protecting%20Access%20One%20Sheet%20R1.pdf?ver=1691942122844",
+        "lastUpdated": "April 2025"
+      },
+      "missouri": {
+        "name": "Missouri",
+        "legislatureUrl": "https://www.mo.gov/government/legislative-branch/",
+        "currentLaws": [
+          "No current mandate: Missouri does not require insurance coverage for infertility treatments."
+        ],
+        "takeAction": [
+          "Contact your representative and senator to champion fertility healthcare insurance coverage and protect against limitations to fertility healthcare."
+        ],
+        "claimInfo": "https://insurance.mo.gov/consumers/complaints/",
+        "factSheet": "Missouri Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Missouri%20Protecting%20Access%20One%20Sheet%20R1.pdf?ver=1691942122844",
+        "lastUpdated": "April 2025"
+      },
+      "montana": {
+        "name": "Montana",
+        "legislatureUrl": "https://www.legmt.gov/",
+        "currentLaws": [
+          "Since 1987, HMOs must provide basic health care services, including infertility services (Montana Code Annotated 33-31-102). IVF is not mandated."
+        ],
+        "billsInProgress": [
+          {
+            "title": "LC1054",
+            "description":
+              "Would provide for mandatory coverage of infertility services by health plans.",
+            "status": "Filed, text not yet available",
+            "details": []
+          }
+        ],
+        "takeAction": [
+          "Contact your representative and senator to champion fertility healthcare insurance coverage and protect against limitations to fertility healthcare.",
+          "Monitor LC1054 for public text release and advocate accordingly."
+        ],
+        "claimInfo": "https://csimt.gov/consumers/file-a-complaint/",
+        "factSheet": "Montana Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Montana%20Protecting%20Access%20One%20Sheet%20R1.pdf?ver=1691942122844",
+        "lastUpdated": "April 2025"
+      },
+      "nebraska": {
+        "name": "Nebraska",
+        "legislatureUrl": "https://nebraskalegislature.gov/",
+        "currentLaws": [
+          "No current mandate: Nebraska does not require insurance coverage for infertility treatments."
+        ],
+        "takeAction": [
+          "Contact your representative and senator to champion fertility healthcare insurance coverage and protect against limitations to fertility healthcare."
+        ],
+        "claimInfo": "https://doi.nebraska.gov/consumer/file-complaint",
+        "factSheet": "Nebraska Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Nebraska%20Protecting%20Access%20One%20Sheet%20R1.pdf?ver=1691942122844",
+        "lastUpdated": "April 2025"
+      },
+      "nevada": {
+        "name": "Nevada",
+        "legislatureUrl": "https://www.leg.state.nv.us/",
+        "currentLaws": [
+          "No current mandate: Nevada does not require insurance coverage for infertility treatments."
+        ],
+        "billsInProgress": [
+          {
+            "title": "SB217/AB428",
+            "description":
+              "Mandates Medicaid and large-group insurance coverage for infertility and protects assisted reproduction rights.",
+            "status": "Introduced",
+            "details": [
+              "Defines infertility in law",
+              "Prevents government interference with assisted reproductive technology",
+              "Clarifies embryos are not considered legal persons"
+            ]
+          }
+        ],
+        "takeAction": [
+          "Contact your representative and senator to champion fertility healthcare insurance coverage and support SB217/AB428."
+        ],
+        "claimInfo": "https://doi.nv.gov/Consumers/File-A-Complaint/",
+        "factSheet": "Nevada Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Nevada%20Protecting%20Access%20One%20Sheet%20F-8.11..pdf?ver=1694474190333",
+        "lastUpdated": "April 2025"
+      },
+      "newhampshire": {
+        "name": "New Hampshire",
+        "legislatureUrl": "https://gc.nh.gov/",
+        "currentLaws": [
+          "Since 2020, group medical plans must offer coverage for diagnosis of infertility and fertility treatments (NH Revised Statutes Section 417-G)."
+        ],
+        "takeAction": [
+          "Contact your representative and senator to champion fertility healthcare insurance coverage and protect against limitations to fertility healthcare."
+        ],
+        "claimInfo": "https://www.nh.gov/insurance/consumers/complaints.htm",
+        "factSheet": "New Hampshire Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20New%20Hampshire%20Protecting%20Access%20One%20Sheet%20.pdf?ver=1691942122844",
+        "lastUpdated": "April 2025"
+      },
+      "newjersey": {
+        "name": "New Jersey",
+        "legislatureUrl": "https://www.njleg.state.nj.us/",
+        "currentLaws": [
+          "Since 2001, updated 2017. Requires group insurance plans to include infertility treatment (N.J. Stat. \u00a7 52:14-17.29v, etc.)."
+        ],
+        "billsInProgress": [
+          {
+            "title": "S2870/A2002",
+            "description":
+              "Expands infertility services coverage to those with menstrual disorders.",
+            "status": "Introduced",
+            "details": []
+          },
+          {
+            "title": "S2821/A5000",
+            "description":
+              "Requires Medicaid coverage of fertility preservation for iatrogenic infertility.",
+            "status": "Introduced",
+            "details": []
+          },
+          {
+            "title": "A5590",
+            "description":
+              "Expands coverage to include storage of sperm and oocytes for certain patients.",
+            "status": "Introduced",
+            "details": []
+          }
+        ],
+        "takeAction": [
+          "Contact your representative and senator to support S2870/A2002, S2821/A5000, and A5590."
+        ],
+        "claimInfo": "https://www.state.nj.us/dobi/consumer.htm",
+        "factSheet": "New Jersey Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20New%20Jersey%20Protecting%20Access%20One%20Sheet%20R1.pdf?ver=1691942122844",
+        "lastUpdated": "April 2025"
+      },
+      "newmexico": {
+        "name": "New Mexico",
+        "legislatureUrl": "https://www.nmlegis.gov/",
+        "currentLaws": [
+          "No current mandate: New Mexico does not require insurance coverage for infertility treatments."
+        ],
+        "billsInProgress": [
+          {
+            "title": "HB95",
+            "description":
+              "Creates definitions for iatrogenic infertility and fertility health treatments. Requires group health insurance, including those self-insured, to cover medically necessary iatrogenic infertility treatment and preservation services.",
+            "status": "In Progress"
+          }
+        ],
+        "takeAction": [
+          "Contact your representative and senator to champion fertility healthcare insurance coverage.",
+          "Ask your legislator to cosponsor HB95."
+        ],
+        "claimInfo": "Visit the New Mexico Office of Superintendent of Insurance",
+        "factSheet": "New Mexico Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20New%20Mexico%20Protecting%20Access%20One%20Sheet%20R1.pdf?ver=1691942122844",
+        "lastUpdated": "April 2025"
+      },
+
+      "newyork": {
+        "name": "New York",
+        "legislatureUrl": "https://nyassembly.gov/",
+        "currentLaws": [
+          "New York mandates insurers to cover IVF under Insurance Law Sections 3221, 3216, 4303, and Public Health Law Section 2807-v.",
+
+          "Originally passed in 1990 and updated in 2002 and 2010."
+        ],
+        "billsInProgress": [
+          {
+            "title": "A00885/S05545 - The Equity in Fertility Treatment Act",
+            "description": "Updates the definition of infertility and medically appropriate care insurers must cover.",
+            "status": "In Progress"
+          },
+          {
+            "title": "A02686/S05635",
+            "description": "Expands coverage of fertility healthcare to iatrogenic infertility caused by medical treatments.",
+            "status": "In Progress"
+          },
+          {
+            "title": "A07175/S05734",
+            "description": "Expands mandate to individual policies. Provides coverage for three oocyte retrievals and unlimited embryo transfers.",
+            "status": "In Progress"
+          }
+        ],
+        "takeAction": [
+          "Contact your representative and senator to support fertility healthcare.",
+          "Urge them to support A00885/S05545, A02686/S05635, and A07175/S05734."
+        ],
+        "claimInfo": "Visit the New York Department of Financial Services",
+        "factSheet": "New York Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20New%20York%20Protecting%20Access%20One%20Sheet%20R1.pdf?ver=1691942122844",
+        "lastUpdated": "April 2025"
+      },
+
+      "northcarolina": {
+        "name": "North Carolina",
+        "legislatureUrl": "https://www.ncleg.gov/",
+        "currentLaws": [
+          "No current mandate: North Carolina does not require insurance coverage for infertility treatments."
+        ],
+        "billsInProgress": [
+          {
+            "title": "H635",
+            "description":
+              "Requires all group plans to cover infertility diagnosis, fertility treatments, and fertility preservation services. Includes no less than three IVF cycles with fresh or frozen embryos.",
+            "status": "In Progress"
+          },
+          {
+            "title": "H744",
+            "description":
+              "Establishes a grant program for fertility preservation and funds research hospitals to test coverage implementation.",
+            "status": "In Progress"
+          }
+        ],
+        "takeAction": [
+          "Contact your representative and senator to support H635 and H744.",
+          "Champion protections for fertility healthcare coverage."
+        ],
+        "claimInfo": "Visit the North Carolina Department of Insurance",
+        "factSheet": "North Carolina Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20North%20Carolina%20%20Protecting%20Access%20One%20Shee.pdf?ver=1691942122864",
+        "lastUpdated": "April 2025"
+      },
+
+      "northdakota": {
+        "name": "North Dakota",
+        "legislatureUrl": "https://ndlegis.gov/",
+        "currentLaws": [
+          "No current mandate: North Dakota does not require insurance coverage for infertility treatments."
+        ],
+        "billsInProgress": [],
+        "takeAction": [
+          "Contact your representative and senator to champion fertility healthcare insurance coverage and protections."
+        ],
+        "claimInfo": "Visit the North Dakota Insurance Department",
+        "factSheet": "North Dakota Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20North%20Dakota%20%20Protecting%20Access%20One%20Sheet%20.pdf?ver=1694474190333",
+        "lastUpdated": "April 2025"
+      },
+
+
+      "ohio": {
+        "name": "Ohio",
+        "legislatureUrl": "https://www.legislature.ohio.gov/",
+        "currentLaws": [
+          "https://codes.ohio.gov/ohio-constitution/section-1.22",
+          "https://codes.ohio.gov/ohio-administrative-code/rule-5160-21-02",
+          "Ohio Rev. Code §§ 1751.01",
+          "Ohio Rev. Code 1751.02",
+          "Ohio Admin. Code 5160-1"
+        ],
+        "currentCoverage": [
+          "Health insurance corporations must cover “basic health care services,” which include “infertility services” when medically necessary.",
+          "“Basic health care services” includes experimental procedures.",
+          "Medicaid-eligible individuals cannot be denied other Medicaid-covered medically necessary services on the basis of fertility or infertility."
+        ],
+        "exemptions": [
+          "This does not apply to Multiple Employer Welfare Arrangements (MWEA) or Medicaid."
+        ],
+        "limitations": [
+          "“Infertility” nor the standard for determining “medical necessity” with regard to infertility is not defined.",
+          "“Experimental procedures” are not defined."
+        ],
+        "billsInProgress": [
+          {
+            "title": "HB136",
+            "description": "Prohibits discrimination based on sexual orientation, gender identity, or expression. Upholds religious exemptions under Ohio Civil Rights Law.",
+            "status": "Introduced; Referred to House Committee of Judiciary",
+            "link": "https://legiscan.com/OH/text/HB136/id/3142348"
+          },
+          {
+            "title": "HB128",
+            "description": "Reproductive Care Act: Establishes protections for individuals seeking reproductive health care, ensuring privacy and legal protections.",
+            "status": "Introduced; Referred to House Committee on Health",
+            "link": "https://www.billtrack50.com/billdetail/1843861"
+          }
+        ],
+        "takeAction": [
+          "Support fertility healthcare in Ohio!",
+          "Contact your legislators: Urge them to support bills advancing fertility insurance coverage! Find their info at Open States.",
+          "Need help reaching out? Check out our Advocate for Yourself page for tips and templates."
+        ],
+        "claimInfo": "https://insurance.ohio.gov/about-us/complaint-center",
+        "factSheet": "Ohio Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Ohio%20%20Protecting%20Access%20One%20Sheet%20F-8.5.22.pdf?ver=1694474597452",
+        "lastUpdated": "April 2025"
+      },
+
+      "oklahoma": {
+        "name": "Oklahoma",
+        "legislatureUrl": "https://www.oklegislature.gov/",
+        "currentLaws": [
+          "36 OK Stat § 6060.8b (2024)"
+        ],
+        "currentCoverage": [
+          "Health plans must cover standard fertility preservation services for individuals of reproductive age diagnosed with cancer if treatment may cause infertility.",
+          "Preauthorization is not required. Standard plan limitations such as deductibles and copays still apply."
+        ],
+        "exemptions": [
+          "Religious employers may request an exemption if coverage conflicts with their beliefs. Must notify prospective enrollees."
+        ],
+        "billsInProgress": [
+          {
+            "title": "HB1117",
+            "description": "Provides legal protections for IVF providers, patients, and embryos.",
+            "status": "Introduced; Referred to House Committee on Public Health",
+            "link": "https://legiscan.com/OK/text/HB1117/id/3053373"
+          },
+          {
+            "title": "HB1201",
+            "description": "Creates tax credits for donations to pregnancy resource centers.",
+            "status": "Introduced; Placed on General Order",
+            "link": "https://www.billtrack50.com/billdetail/1782542"
+          }
+        ],
+        "takeAction": [
+          "Support fertility healthcare in Oklahoma!",
+          "Contact your legislators: Urge them to support HB1117 and HB1201. Find their info at Open States.",
+          "Need help reaching out? Check out our Advocate for Yourself page for tips and templates."
+        ],
+        "claimInfo": "https://www.oid.ok.gov/consumers/file-an-online-complaint/",
+        "factSheet": "Oklahoma Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Oklahoma%20%20Protecting%20Access%20One%20Sheet%20F-8..pdf?ver=1694474597452",
+        "lastUpdated": "April 2025"
+      },
+
+      "oregon": {
+        "name": "Oregon",
+        "legislatureUrl": "https://www.oregonlegislature.gov/",
+        "currentLaws": [
+          "https://dfr.oregon.gov/insure/health/understand/coverage/pages/reproductive-health.aspx",
+          "https://www.oregon.gov/oha/ph/healthypeoplefamilies/reproductivesexualhealth/pages/reproductive-health-equity-act.aspx"
+        ],
+        "currentCoverage": [
+          "Individual, small group, large group, MEWAs, and student plans must provide expanded access to free reproductive health services.",
+          "Oregon Medicaid (OHP) is not subject to RHEA but covers reproductive services without out-of-pocket costs.",
+          "Reproductive health services under private insurance must be free from copays or deductibles.",
+          "Coverage must not discriminate based on race, gender identity, disability, etc."
+        ],
+        "exemptions": [
+          "Excludes short-term/limited plans, self-insured associations and employers (ERISA), Medicare, TRICARE, and others from RHEA requirements."
+        ],
+        "billsInProgress": [
+          {
+            "title": "SB535",
+            "description": "Requires coverage of specified fertility treatments. Includes exemptions for certain insurers.",
+            "status": "Introduced; Referred to Ways and Means",
+            "link": "https://legiscan.com/OR/bill/SB535/2025"
+          }
+        ],
+        "takeAction": [
+          "Support fertility healthcare in Oregon!",
+          "Contact your legislators: Urge them to support SB535 and other fertility legislation. Find their info at Open States.",
+          "Need help reaching out? Check out our Advocate for Yourself page for templates and tips."
+        ],
+        "claimInfo": "https://dfr.oregon.gov/help/complaints-licenses/pages/file-complaint.aspx",
+        "factSheet": "Oregon Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Oregon%20Protecting%20Access%20One%20Sheet%20R1.pdf?ver=1691942122864",
+        "lastUpdated": "April 2025"
+      },
+      "pennsylvania": {
+        "name": "Pennsylvania",
+        "legislatureUrl": "https://www.legis.state.pa.us/",
+        "currentLaws": [],
+        "currentCoverage": [
+          "Currently, there are no state laws requiring insurance companies to cover infertility treatment."
+        ],
+        "billsInProgress": [
+          {
+            "title": "HB 922",
+            "description": "Amends the Insurance Company Law of 1921 to provide for fertility preservation coverage.",
+            "status": "Introduced; Referred to House Committee on Insurance",
+            "link": ""
+          }
+        ],
+        "takeAction": [
+          "Support fertility healthcare in Pennsylvania!",
+          "Contact your legislators: Urge them to support HB 922. Find their info at Open States.",
+          "Need help reaching out? Check out our Advocate for Yourself page for tips and templates."
+        ],
+        "claimInfo": "https://www.insurance.pa.gov/Consumers/Pages/File-a-Complaint.aspx",
+        "factSheet": "Pennsylvania Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Pennsylvania%20Protecting%20Access%20One%20Sheet%20F.pdf?ver=1694474597452",
+        "lastUpdated": "April 2025"
+      },
+      "rhodeisland": {
+        "name": "Rhode Island",
+        "legislatureUrl": "https://www.rilegislature.gov/",
+        "currentLaws": [
+          "RI Gen L § 27-18-30 (2024)",
+          "R.I. Gen. Laws §§ 27-19-23(a), 27-20-20(a), 27-41-33(a)"
+        ],
+        "currentCoverage": [
+          "Coverage for medically necessary infertility diagnosis and treatment required for policies that include pregnancy-related benefits.",
+          "Copayment up to 20% may apply.",
+          "Lifetime cap of $100,000 may be imposed."
+        ],
+        "fertilityPreservation": [
+          "Required for women aged 25–42 when treatment may cause iatrogenic infertility."
+        ],
+        "exemptions": [
+          "Self-insured employers and Medicare/supplemental plans are exempt."
+        ],
+        "billsInProgress": [
+          {
+            "title": "HB 5771",
+            "description": "Mandates Medicaid coverage for fertility diagnostic care, preservation, and treatment.",
+            "status": "Introduced; Held for Further Study",
+            "link": ""
+          },
+          {
+            "title": "HB 5629",
+            "description": "Requires broader fertility coverage including ovulation-enhancing drugs and related services.",
+            "status": "Introduced; Held for Further Study",
+            "link": ""
+          }
+        ],
+        "takeAction": [
+          "Support fertility healthcare in Rhode Island!",
+          "Contact your legislators to support HB 5771 and HB 5629. Find their info at Open States.",
+          "Need help reaching out? Check out our Advocate for Yourself page for templates."
+        ],
+        "claimInfo": "https://dbr.ri.gov/complaints-and-licensee-search/file-insurance-complaint",
+        "factSheet": "Rhode Island Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Rhode%20Island%20Protecting%20Access%20One%20Sheet%20R.pdf?ver=1691942122864",
+        "lastUpdated": "April 2025"
+      },
+      "southcarolina": {
+        "name": "South Carolina",
+        "legislatureUrl": "https://www.scstatehouse.gov/",
+        "currentLaws": [],
+        "currentCoverage": [
+          "Currently, there are no laws requiring health insurance providers to cover infertility treatment."
+        ],
+        "exemptions": [],
+        "limitations": [],
+        "fertilityPreservation": [],
+        "billsInProgress": [
+          {
+            "title": "HB 3652",
+            "description": "Adds a definition for 'Assistive Reproductive Technologies' and provides protections to access them.",
+            "status": "Introduced; Referred to Committee on Judiciary",
+            "link": ""
+          },
+          {
+            "title": "HB 3107",
+            "description": "Clarifies that fertilized human embryos outside the uterus are not considered unborn children under state law.",
+            "status": "Introduced; Referred to House Committee on Judiciary",
+            "link": ""
+          }
+        ],
+        "takeAction": [
+          "Support fertility healthcare in South Carolina!",
+          "Contact your legislators: Urge them to support HB 3652 and HB 3107. Find their info at Open States.",
+          "Need help reaching out? Check out our Advocate for Yourself page for tips and templates."
+        ],
+        "claimInfo": "https://doi.sc.gov/ConsumerServices/FileAComplaint",
+        "factSheet": "South Carolina Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20South%20Carolina%20Protecting%20Access%20One%20Sheet.pdf?ver=1694474597452",
+
+        "lastUpdated": "April 2025"
+      },
+      "southdakota": {
+        "name": "South Dakota",
+        "legislatureUrl": "https://sdlegislature.gov/",
+        "currentLaws": [],
+        "currentCoverage": [
+          "Currently, South Dakota has no laws requiring health insurance providers to cover infertility treatment."
+        ],
+        "exemptions": [],
+        "limitations": [],
+        "fertilityPreservation": [],
+        "billsInProgress": [],
+        "takeAction": [
+          "Support fertility healthcare in South Dakota!",
+          "Contact your legislators: Urge them to create bills advancing fertility insurance coverage. Find their info at Open States.",
+          "Need help reaching out? Check out our Advocate for Yourself page for tips and templates."
+        ],
+        "claimInfo": "https://dlr.sd.gov/insurance/complaint.aspx",
+        "factSheet": "South Dakota Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20South%20Dakota%20Protecting%20Access%20One%20Sheet%20F.pdf?ver=1694474597452",
+        "lastUpdated": "April 2025"
+      },
+
+      "tennessee": {
+        "name": "Tennessee",
+        "legislatureUrl": "https://www.capitol.tn.gov/",
+        "currentLaws": [
+          "Public Chapter Number 247 Law"
+        ],
+        "currentCoverage": [],
+        "exemptions": [],
+        "limitations": [],
+        "fertilityPreservation": [],
+        "billsInProgress": [],
+        "takeAction": [
+          "Support fertility healthcare in Tennessee!",
+          "Contact your legislators: Urge them to support bills advancing fertility insurance coverage. Find their info at Open States.",
+          "Need help reaching out? Check out our Advocate for Yourself page for tips and templates."
+        ],
+        "claimInfo": "https://www.tn.gov/commerce/resources-services/file-a-complaint.html",
+        "factSheet": "Tennessee Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Tennessee%20Protecting%20Access%20One%20Sheet%20F-8..pdf?ver=1694474597452",
+        "lastUpdated": "April 2025"
+      },
+
+
+      "texas": {
+        "name": "Texas",
+        "legislatureUrl": "https://capitol.texas.gov/",
+        "currentLaws": ["Texas Insurance Statutes"],
+        "currentCoverage": [
+          "An issuer of a group health benefit plan that provides pregnancy-related benefits must offer coverage for in vitro fertilization (IVF) procedures.",
+          "IVF benefits must match the extent of other pregnancy-related benefits provided under the plan.",
+          "Coverage is required only if all the following conditions are met:",
+          "- The patient is covered under the group health plan.",
+          "- Fertilization is attempted only with the sperm of the patient’s spouse.",
+          "- The couple has a documented history of infertility for at least five continuous years OR the infertility is associated with:",
+          "   • Endometriosis;",
+          "   • Exposure in utero to diethylstilbestrol (DES);",
+          "   • Blockage or surgical removal of fallopian tubes;",
+          "   • Oligospermia.",
+          "- The patient has failed to achieve pregnancy with less costly applicable infertility treatments covered by the plan.",
+          "- The IVF procedures must be performed at a facility meeting ASRM standards."
+        ],
+        "fertilityPreservation": [
+          "A health benefit plan must cover fertility preservation services for patients receiving medically necessary cancer treatment (e.g., surgery, chemotherapy, or radiation) that may impair fertility.",
+          "ASCO or ASRM must recognize the treatment as posing a risk to fertility.",
+          "Rejections of IVF coverage offers must be provided in writing."
+        ],
+        "exemptions": [
+          "Insurers, HMOs, and self-insuring employers owned by or affiliated with a bona fide religious denomination that opposes IVF are not required to offer IVF coverage."
+        ],
+        "billsInProgress": [
+          {
+            "title": "HB 618",
+            "description": "Relates to health benefit plan coverage for IVF procedures for certain governmental employees and retirees.",
+            "status": "Introduced March 2025; Currently Considered in Calendars",
+            "link": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=HB618"
+          },
+          {
+            "title": "SB 833",
+            "description": "Defines conditions applicable to health benefit plan coverage of IVF procedures.",
+            "status": "Introduced February 2025; Referred to Senate Committee on Health & Human Services",
+            "link": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=SB833"
+          }
+        ],
+        "takeAction": [
+          "Support fertility healthcare in Texas!",
+          "Contact your legislators: Urge them to support HB 618 and SB 833. Find their info at Open States.",
+          "Need help reaching out? Check out our Advocate for Yourself page for tips and templates to effectively contact your legislators."
+        ],
+        "claimInfo": "https://www.tdi.texas.gov/consumer/complfrm.html",
+        "factSheet": "Texas Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Texas%20Protecting%20Access%20One%20Sheet%20R1.pdf?ver=1691942122864",
+        "lastUpdated": "April 2025"
+      },
+      "utah": {
+        "name": "Utah",
+        "legislatureUrl": "https://le.utah.gov/",
+        "currentLaws": [
+          "https://le.utah.gov/xcode/Title49/Chapter20/49-20-S418.html",
+          "Utah Code Ann. §§ 26-18-420.1(1)(c), 26-18-420.1(3)",
+          "§ 26-18-420.1(1)"
+        ],
+        "currentCoverage": [
+          "For Medicaid patients and public employees under the Public Employees’ Health Plan: coverage includes IVF and genetic testing if the patient has cancer and requires treatments (surgery, radiation, or chemotherapy) that may cause sterility or iatrogenic infertility.",
+          "Public Employees’ Benefit and Insurance Plan provides a $4,000 benefit per qualified assisted reproductive technology (ART) cycle if:",
+          "- The patient is the one receiving ART services;",
+          "- The physician verifies the patient or spouse has a medically recognized infertility condition OR the patient attests to over a year of unsuccessful conception without contraception;",
+          "- Less costly treatments covered by the plan have failed;",
+          "- The ART procedure complies with the plan’s clinical policies and is performed at a facility meeting ASRM standards.",
+          "If the individual has already received an adoption indemnity benefit, they are ineligible for ART benefits."
+        ],
+        "exemptions": [],
+        "fertilityPreservation": [
+          "Medicaid patients can request approval for standard fertility preservation services if diagnosed with one of the following: cystic fibrosis, spinal muscular atrophy, Morquio syndrome, myotonic dystrophy, or sickle cell anemia."
+        ],
+        "billsInProgress": [],
+        "takeAction": [
+          "Support fertility healthcare in Utah!",
+          "Contact your legislators: Urge them to create and advance bills expanding fertility insurance coverage. Find their info at Open States.",
+          "Need help reaching out? Check out our Advocate for Yourself page for tips and templates to effectively contact your legislators."
+        ],
+        "claimInfo": "https://insurance.utah.gov/consumer/file-a-complaint",
+        "factSheet": "Utah Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Utah%20Protecting%20Access%20One%20Sheet%20R1.pdf?ver=1691942413692",
+        "lastUpdated": "April 2025"
+      },
+      "vermont": {
+        "name": "Vermont",
+        "legislatureUrl": "https://legislature.vermont.gov/",
+        "currentLaws": [],
+        "currentCoverage": [
+          "Currently, there are no laws requiring health insurance providers to cover infertility treatment."
+        ],
+        "exemptions": [],
+        "fertilityPreservation": [],
+        "billsInProgress": [
+          {
+            "title": "HB 302",
+            "description": "Proposes requiring health insurance plans and Vermont Medicaid to provide coverage for fertility-related services.",
+            "status": "Introduced February 2025; Referred to House Committee on Health Care",
+            "link": "https://legislature.vermont.gov/bill/status/2026/H.302" 
+          }
+        ],
+        "takeAction": [
+          "Support fertility healthcare in Vermont!",
+          "Contact your legislators: Urge them to support HB 302 and expand fertility insurance coverage. Find their info at Open States.",
+          "Need help reaching out? Check out our Advocate for Yourself page for tips and templates to effectively contact your legislators."
+        ],
+        "claimInfo": "https://dfr.vermont.gov/industry/insurance/file-complaint",
+        "factSheet": "Vermont Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Vermont%20Protecting%20Access%20One%20Sheet%20R1.pdf?ver=1691942413692",
+        "lastUpdated": "April 2025"
+      },
+      "virginia": {
+        "name": "Virginia",
+        "legislatureUrl": "https://lis.virginia.gov/",
+        "currentLaws": [],
+        "currentCoverage": [
+          "Currently, there are no laws requiring infertility treatment coverage."
+        ],
+        "exemptions": [],
+        "fertilityPreservation": [],
+        "billsInProgress": [
+          {
+            "title": "HB1609",
+            "description": "Requires the Health Insurance Reform Commission to consider coverage for infertility diagnosis, treatment, and standard fertility preservation in the 2025 review of essential health benefits.",
+            "status": "Introduced 2025; Under consideration",
+            "link": "https://lis.virginia.gov/cgi-bin/legp604.exe?251+sum+HB1609" 
+          }
+        ],
+        "takeAction": [
+          "Support fertility healthcare in Virginia!",
+          "Contact your representative and senator to champion fertility healthcare insurance coverage and protect against coverage limitations.",
+          "Need help reaching out? Check out our Advocate for Yourself page for tips and templates."
+        ],
+        "claimInfo": "https://scc.virginia.gov/pages/File-an-Insurance-Complaint",
+        "factSheet": "Virginia Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Virginia%20Protecting%20Access%20One%20Sheet%20R1.pdf?ver=1691942413692",
+        "lastUpdated": "April 2025"
+      },
+      "washington": {
+        "name": "Washington",
+        "legislatureUrl": "https://leg.wa.gov/",
+        "currentLaws": [],
+        "currentCoverage": [
+          "Currently, there are no laws requiring infertility treatment coverage."
+        ],
+        "exemptions": [],
+        "fertilityPreservation": [],
+        "billsInProgress": [
+          {
+            "title": "SB 5121",
+            "description": "Mandates coverage for infertility services.",
+            "status": "Introduced 2025; Under consideration",
+            "link": "https://app.leg.wa.gov/billsummary?BillNumber=5121&Year=2025" 
+          }
+        ],
+        "takeAction": [
+          "Support fertility healthcare in Washington!",
+          "Contact your representative and senator to champion fertility healthcare insurance coverage and protect against limitations to fertility care.",
+          "Need help reaching out? Check out our Advocate for Yourself page for tips and templates."
+        ],
+        "claimInfo": "https://www.insurance.wa.gov/file-complaint-or-check-your-complaint-status",
+        "factSheet": "Washington Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Washington%20Protecting%20Access%20One%20Sheet%20R1.pdf?ver=1691942413692",
+        "lastUpdated": "April 2025"
+      },
+
+      "westvirginia": {
+        "name": "West Virginia",
+        "legislatureUrl": "https://www.wvlegislature.gov/",
+        "currentLaws": [
+          "West Virginia Code Section 33-25A-2"
+        ],
+        "currentCoverage": [
+          "Mandate Year: 1977, 1995",
+          "Health maintenance organizations are required to provide basic health care services, including infertility services."
+        ],
+        "exemptions": [],
+        "fertilityPreservation": [],
+        "billsInProgress": [
+          {
+            "title": "SB 669",
+            "description": "Requires medical insurance providers to include infertility services in their policies. Includes definitions, rulemaking, coverage standards, limitations, and effective dates.",
+            "status": "Introduced 2025; Under consideration",
+            "link": "https://www.wvlegislature.gov/Bill_Status/bills_history.cfm?INPUT=669&year=2025&sessiontype=RS"
+          }
+        ],
+        "takeAction": [
+          "Support fertility healthcare in West Virginia!",
+          "Contact your representative and senator to champion fertility healthcare insurance coverage and protect against limitations.",
+          "Need help reaching out? Check out our Advocate for Yourself page for tips and templates."
+        ],
+        "claimInfo": "https://www.wvinsurance.gov/Consumer-Services/File-a-Complaint",
+        "factSheet": "West Virginia Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20West%20Virginia%20Protecting%20Access%20One%20Sheet%20.pdf?ver=1691942413692",
+        "lastUpdated": "April 2025"
+      },
+      "wisconsin": {
+        "name": "Wisconsin",
+        "legislatureUrl": "https://legis.wisconsin.gov/",
+        "currentLaws": [
+          "Wisconsin Statutes Section 253.075"
+        ],
+        "currentCoverage": [
+          "Mandate Year: 2018",
+          "The Wisconsin Department of Health Services shall distribute family planning and related preventative health services funds (including infertility services) to public entities, including state, county, and local health departments and clinics.",
+          "If funds remain, grants may be awarded to nonpublic entities like hospitals or federally qualified health centers that provide comprehensive primary and preventative care."
+        ],
+        "exemptions": [
+          "An employee may refuse to offer family planning services due to personal beliefs. This refusal is protected from dismissal, suspension, demotion, or other employment discrimination."
+        ],
+        "fertilityPreservation": [],
+        "billsInProgress": [],
+        "takeAction": [
+          "Support fertility healthcare in Wisconsin!",
+          "Contact your representative and senator to champion fertility healthcare insurance coverage and prevent future limitations.",
+          "Need help reaching out? Check out our Advocate for Yourself page for tips and templates."
+        ],
+        "claimInfo": "https://oci.wi.gov/Pages/Consumers/FileComplaint.aspx",
+        "factSheet": "Wisconsin Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Wisconsin%20Protecting%20Access%20One%20Sheet%20R1.pdf?ver=1691942413692",
+        "lastUpdated": "April 2025"
+      },
+      "wyoming": {
+        "name": "Wyoming",
+        "legislatureUrl": "https://www.wyoleg.gov/",
+        "currentLaws": [],
+        "currentCoverage": [
+          "Currently, there are no laws requiring infertility treatment coverage."
+        ],
+        "exemptions": [],
+        "fertilityPreservation": [],
+        "billsInProgress": [],
+        "takeAction": [
+          "Support fertility healthcare in Wyoming!",
+          "Contact your representative and senator to champion fertility healthcare insurance coverage and protect against limitations.",
+          "Need help reaching out? Check out our Advocate for Yourself page for tips and templates."
+        ],
+        "claimInfo": "https://doi.wyo.gov/consumers/file-a-complaint",
+        "factSheet": "Wyoming Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Wyoming%20Protecting%20Access%20One%20Sheet%20R2.pdf?ver=1691942413692",
+        "lastUpdated": "April 2025"
+      },
+      "puertoRico": {
+        "name": "Puerto Rico",
+        "legislatureUrl": "https://www.legislaturapr.gov/",
+        "currentLaws": [],
+        "currentCoverage": [
+          "Currently, there are no laws requiring infertility treatment coverage."
+        ],
+        "exemptions": [],
+        "fertilityPreservation": [],
+        "billsInProgress": [],
+        "takeAction": [
+          "Support fertility healthcare in Puerto Rico!",
+          "Contact your representative and senator to champion fertility healthcare insurance coverage and protect against limitations.",
+          "Need help reaching out? Check out our Advocate for Yourself page for tips and templates."
+        ],
+        "claimInfo": "https://www.ocs.pr.gov/ocspr/Pages/Quejas-y-Reclamaciones.aspx",
+        "factSheet": "Puerto Rico Protecting Fertility Healthcare",
+        "factSheetUrl": "https://img1.wsimg.com/blobby/go/0b7c0112-5710-4353-8702-f7463cd0d6e9/downloads/FWR%20Puerto%20Rico%20Protecting%20Access%20One%20Sheet%20F-.pdf?ver=1694474597452",
+        "lastUpdated": "April 2025"
+      }
+    }
